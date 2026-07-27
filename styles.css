@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 main {
     background-color: white;
     width: min(85%, 35rem);
-    margin-block: 10rem 6rem;
+    margin-block: 18rem 6.5rem;
     border-radius: 4px;
 }
 
